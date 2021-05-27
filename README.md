@@ -1,9 +1,11 @@
 # 基于Spring Boot的作业提交与批阅系统
 这是我的毕业设计，一个基于SpringBoot所编写的作业提交与批阅系统，代码还有很多需要改进和提升的地方，各位看到的大佬请多多包含（别喷我。 
 
-- 采用前后端分的架构，前端使用Vue + Element UI进行构建，后端采用Spring Boot + Mybatis，更详细的说明可以看下面的代码运行环境与部署。（[前端代码]( https://github.com/A7103/Online-Assignment-System-Front-end )）
+- 采用前后端分的架构，前端使用Vue + Element UI进行构建，后端采用Spring Boot + Mybatis，更详细的说明可以看下面的代码运行环境与部署。
+- [前端代码]( https://github.com/A7103/Online-Assignment-System-Front-end )
 - <a href="/OperatingEnvironment.md">代码运行环境与服务器部署 </a>
 
+#### 如果这个项目对你有帮助，那就帮我点一个star吧！但是千万不要直接拿去用在课程设计之类的作业。
 ### 目前已完成以下功能：
 
 #### 学生端：

@@ -13,7 +13,7 @@ Navicat Premium 、DataGrip、IDEA 、VsCode
 - vue-cli 4.5.8版本
 - vue 2.6.10 版本
 - Element UI 组件库 2.13 版本
-
+- 前端的框架是来自[PanJiaChen](https://github.com/PanJiaChen) 大佬的[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 ### 后端运行环境：
 
 - JDK 1.8.0_201 版本
