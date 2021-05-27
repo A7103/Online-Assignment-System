@@ -5,7 +5,7 @@
 - [前端代码]( https://github.com/A7103/Online-Assignment-System-Front-end )
 - <a href="/OperatingEnvironment.md">代码运行环境与服务器部署 </a>
 
-#### 如果您觉得这个项目还不错, 可以在 [Github](https://github.com/A7103/Online-Assignment-System) 上面帮我点个`star` ☜(ﾟヮﾟ☜)**
+#### 如果您觉得这个项目还不错, 可以在 [Github](https://github.com/A7103/Online-Assignment-System) 上面帮我点个`star` ☜(ﾟヮﾟ☜)
 ### 目前已完成以下功能：
 
 #### 学生端：
