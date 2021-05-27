@@ -28,6 +28,7 @@
   - [x] 在线浏览代码文件，并做到语法高亮与行号显示
   - [x] 在线浏览Word、PPT、Excel 文件（使用[Apache OpenOffice](https://www.openoffice.org/download/) 实现)
   - [x] 文件下载
+  - [x] 评论作业
 
 #### 管理员端：
 
