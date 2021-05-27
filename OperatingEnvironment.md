@@ -5,7 +5,8 @@
 ### 系统环境：
 
 Windows 10 家庭中文版 2004 版本
-
+### 开发工具：
+Navicat Premium 、DataGrip、IDEA 、VsCode
 ### 前端运行环境：
 
 - Node.js 14.15.0版本
@@ -18,6 +19,7 @@ Windows 10 家庭中文版 2004 版本
 - JDK 1.8.0_201 版本
 - Spring Boot 2.3.4.RELEASE 版本
 - MySQL 5.6.49版本
+- TODO 忘了加Maven的版本了
 - [Apache OpenOffice 4.1.10 released Windows 32-bit (x86) (EXE)](https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.10/binaries/zh-CN/Apache_OpenOffice_4.1.10_Win_x86_install_zh-CN.exe/download) 版本
 
 #### 其他运行环境：
@@ -47,21 +49,14 @@ services:
 
 - 阿里云服务器ECS实例
 - CentOS 8.1 64位
-
-### 前端运行环境：
 - Node.js 14.15.0版本
-- vue-cli 4.5.8版本
-- vue 2.6.10 版本
-- Element UI 组件库 2.13 版本
-
-### 后端运行环境：
-
 - JDK 1.8.0_201 版本
-- Spring Boot 2.3.4.RELEASE 版本
 - MySQL 5.6.49版本 (与本地开发时一样，使用docker初始化数据库)
 - [Apache OpenOffice 4.1.10 released Linux 64-bit (x86-64) (RPM)](https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.10/binaries/zh-CN/Apache_OpenOffice_4.1.10_Linux_x86-64_install-rpm_zh-CN.tar.gz/download) 版本
 
 ### 部署相关：
+进入前端代码根目录的.env.production文件，将其中的 base api改成自己的路径。
+
 前端在本地代码目录终端下，使用下列命令进行build编译，并将build完的文件移动至服务器。
 ```
 npm run build:prod
