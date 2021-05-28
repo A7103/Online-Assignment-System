@@ -64,7 +64,7 @@ public class FileServiceImpl implements FileService {
         files.setCourseId(courseId);
         files.setAssignmentId(assignmentId);
 
-        // TODO: 2020/12/13 因为使用了insert ignore into 所以无法判断到底是因为插入失败还是因为已有相同值而导致的返回值为0
+     
         int result = 1;
         //判断是否是压缩包格式
         if(!FileZipUtil.verify(fileName)){
@@ -110,8 +110,7 @@ public class FileServiceImpl implements FileService {
         files1.setCreateTime(new Date());
         files1.setCourseId(courseId);
         files1.setAssignmentId(assignmentId);
-        // TODO: 2020/12/13 因为SQL语句使用了insert ignore into
-        //  所以无法判断到底是因为插入失败还是因为已有相同值而导致的返回值为0,就导致了重名直接覆盖
+        
         int result = 1;
 
         for (int i = 0; i < files.size(); ++i) {
