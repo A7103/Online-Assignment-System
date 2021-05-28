@@ -3,7 +3,6 @@
 
 - 采用前后端分离的架构，前端使用Vue + Element UI进行构建，后端采用Spring Boot + Mybatis，更详细的说明可以看下面的代码运行环境与部署。
 - [前端代码]( https://github.com/A7103/Online-Assignment-System-Front-end )
-- [在线演示](http://bysj.yuehen.top)
 - <a href="/OperatingEnvironment.md">代码运行环境与服务器部署 </a>
 - <a href="/graduation.sql">数据库SQL脚本 </a>
 #### 如果您觉得这个项目还不错, 可以在 [Github](https://github.com/A7103/Online-Assignment-System) 上面帮我点个`star` ☜(ﾟヮﾟ☜)
