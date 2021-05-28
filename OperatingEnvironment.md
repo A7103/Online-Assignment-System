@@ -3,8 +3,9 @@
 ## 本地开发环境：
 
 ### 系统环境：
+##### Edition : Windows 10 CoreCountrySpecific
+##### version : 2004
 
-Windows 10 家庭中文版 2004 版本
 ### 开发工具：
 Navicat Premium 、DataGrip、IDEA 、VsCode
 ### 前端运行环境：
