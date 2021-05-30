@@ -1,5 +1,5 @@
 # 基于Spring Boot的作业提交与批阅系统
-这是我的毕业设计，一个基于SpringBoot所编写的作业提交与批阅系统，代码还有很多需要改进和提升的地方，各位看到的大佬请多多包含（别喷我。 
+这是一个基于SpringBoot所编写的作业提交与批阅系统，代码还有很多需要改进和提升的地方，各位看到的大佬请多多包含（别喷我。 
 
 - 采用前后端分离的架构，前端使用Vue + Element UI进行构建，后端采用Spring Boot + Mybatis，更详细的说明可以看下面的代码运行环境与部署。
 - [前端代码]( https://github.com/A7103/Online-Assignment-System-Front-end )
@@ -45,7 +45,7 @@
 
 ### 项目代码行数
 
-代码行数并不能反映你有多厉害，代码质量才是最重要的，我这里也只是统计一下我毕设的工作量，计算插件来自[AlDanial/cloc](https://github.com/AlDanial/cloc)。
+代码行数并不能反映你有多厉害，代码质量才是最重要的，我这里也只是统计一下我的工作量，计算插件来自[AlDanial/cloc](https://github.com/AlDanial/cloc)。
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
