@@ -45,7 +45,7 @@
 
 ### 项目代码行数
 
-统计一下工作量，计算插件来自[AlDanial/cloc](https://github.com/AlDanial/cloc)。
+统计一下项目工作量，计算插件来自[AlDanial/cloc](https://github.com/AlDanial/cloc)。
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
